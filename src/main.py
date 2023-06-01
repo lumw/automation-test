@@ -19,7 +19,7 @@ element = web_driver.find_element(By.XPATH, '/html/body/div[3]/div/div[4]/div[2]
 element.send_keys('the.lumw@gmail.com')
 
 element = web_driver.find_element(By.XPATH, '/html/body/div[3]/div/div[4]/div[2]/form/div[3]/input')
-element.send_keys('DavidVilla?0622')
+element.send_keys('*********')
 
 
 element = web_driver.find_element(By.CLASS_NAME, 'btn_primary')
